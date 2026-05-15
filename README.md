@@ -1,6 +1,4 @@
-هذا الـ README:
 
----
 # Mohammed alfawaz - 444100935
 # Lab 04 - Django Tax Calculator
 
